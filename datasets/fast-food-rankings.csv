@@ -1,0 +1,51 @@
+State,Dairy Queen,State,Subway,State,Pizza Hut,State,Wendys,State,Tacobell
+North Dakota,1,South Dakota,1,Kansas,1,West Virginia,1,Missouri,1
+South Dakota,2,Wyoming,2,Wyoming,2,Ohio,2,Indiana,2
+Minnesota,3,Nebraska,3,Nebraska,3,Kentucky,3,Tennessee,3
+West Virginia,4,West Virginia,4,Mississippi,4,Mississippi,4,West Virginia,4
+Montana,5,Mississippi,5,Arkansas,5,Louisiana,5,Arkansas,5
+Iowa,6,Louisiana,6,South Dakota,6,Georgia,6,Kentucky,6
+Kentucky,7,Oklahoma,7,Missouri,7,Utah,7,Ohio,7
+Indiana,8,Iowa,8,Oklahoma,8,Indiana,8,Kansas,8
+Nebraska,9,Wisconsin,9,Montana,9,Virginia,9,Michigan,9
+Oregon,10,Ohio,10,Louisiana,10,South Carolina,10,Louisiana,10
+Wisconsin,11,Indiana,11,Iowa,11,Tennessee,11,Mississippi,11
+Ohio,12,Arkansas,12,Indiana,12,North Carolina,12,New Mexico,12
+Kansas,13,North Dakota,13,West Virginia,13,Florida,13,Oklahoma,13
+Illinois,14,Michigan,14,Alabama,14,Michigan,14,Alabama,14
+Texas,15,Kentucky,15,Kentucky,15,Wyoming,15,Colorado,15
+Georgia,16,Tennessee,16,Texas,16,Kansas,16,Oregon,16
+Missouri,17,Alabama,17,Virginia,17,Colorado,17,Nevada,17
+Maine,18,Connecticut,18,Tennessee,18,Arkansas,18,Arizona,18
+New Mexico,19,Kansas,19,Hawaii,19,Alabama,19,Virginia,19
+Michigan,20,Alaska,20,New Mexico,20,Pennsylvania,20,North Carolina,20
+Wyoming,21,Missouri,21,Ohio,21,New Mexico,21,Georgia,21
+Colorado,22,Illinois,22,Idaho,22,Rhode Island,22,Wisconsin,22
+Delaware,23,Maine,23,Nevada,23,New Hampshire,23,Texas,23
+Pennsylvania,24,New Mexico,24,Georgia,24,Idaho,24,Nebraska,24
+Arizona,25,Minnesota,25,North Carolina,25,Maryland,25,South Carolina,25
+Alabama,26,Hawaii,26,North Dakota,26,New Jersey,26,Hawaii,26
+Idaho,27,Virginia,27,South Carolina,27,Missouri,27,California,27
+Washington,28,Montana,28,Colorado,28,Illinois,28,Wyoming,28
+Tennessee,29,Vermont,29,Florida,29,Montana,29,Illinois,29
+Nevada,30,Georgia,30,Wisconsin,30,Nevada,30,Florida,30
+Virginia,31,North Carolina,31,Utah,31,Connecticut,31,Alaska,31
+Connecticut,32,South Carolina,32,Arizona,32,Texas,32,Washington,32
+Arkansas,33,Maryland,33,Illinois,33,Massachusetts,33,Montana,33
+North Carolina,34,Washington,34,Minnesota,34,Arizona,34,Utah,34
+New Hampshire,35,Idaho,35,Alaska,35,Nebraska,35,South Dakota,35
+Mississippi,36,Texas,36,Maryland,36,Iowa,36,Iowa,36
+New Jersey,37,Colorado,37,California,37,Delaware,37,Idaho,37
+Utah,38,Rhode Island,38,Pennsylvania,38,Alaska,38,Delaware,38
+Louisiana,39,Oregon,39,Washington,39,Oklahoma,39,Rhode Island,39
+Florida,40,New Hampshire,40,Oregon,40,Maine,40,Maryland,40
+Alaska,41,Utah,41,Michigan,41,New York,41,Minnesota,41
+South Carolina,42,Florida,42,Maine,42,North Dakota,42,Maine,42
+Oklahoma,43,Nevada,43,New Hampshire,43,Washington,43,North Dakota,43
+Maryland,44,Pennsylvania,44,Delaware,44,Minnesota,44,New Hampshire,44
+Hawaii,45,California,45,Vermont,45,Oregon,45,Pennsylvania,45
+Massachusetts,46,Arizona,46,New Jersey,46,Wisconsin,46,Connecticut,46
+New York,47,Massachusetts,47,New York,47,South Dakota,47,New Jersey,47
+California,48,New York,48,Massachusetts,48,California,48,Massachusetts,48
+Rhode Island,49,Delaware,49,Connecticut,49,Hawaii,49,New York,49
+Vermont,50,New Jersey,50,Rhode Island,50,Vermont,50,Vermont,50
