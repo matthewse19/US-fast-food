@@ -1,7 +1,8 @@
 # Visualizing the prevalance of various fast food chains in the United States
 <iframe title="Most Prevalent Fast Food Chain" aria-label="map" id="datawrapper-chart-wVBgu" src="https://datawrapper.dwcdn.net/wVBgu/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="421"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-###Methodologies
+### Methodologies
 The number of locations each fast food chain had in a given state was multiplied by 100,000 and divided by the population of the state to obtain the amount per capita. Then all of the 50 states were given a rank for each of the five chains depending on how high its amount per capita was (the state with the highest per capita for a chain was given a 1, the lowest given a 50). The chain for which the state ranked the highest (lowest number) in was then chosen to be its most "prevelant" fast food chain. In the event of a tie, the chain with the higher amount per capita was selected. 
+
 This methodology was chosen so that one could compare the prevalence of fast food chains amongst different states. The specific fast food chains were chosen rather arbitrarily, as they were just easy to scrape data from. However, it does work out well that each chain servers a different type of food. All of these chains were also amongst the top 30 most popular in the United States.
 
